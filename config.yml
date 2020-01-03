@@ -7,10 +7,10 @@ params:
   alwaysKeepBrandColor: true
   brand: '#0a0c0f'
   categories:
-    - closed: true
-      description: All FireForged Minecraft Servers
+    - closed: false
+      description: ''
       name: Minecraft
-    - closed: true
+    - closed: false
       name: Web Services
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
