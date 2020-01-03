@@ -22,7 +22,7 @@ params:
   googleAnalytics: UA-00000000-1
   incidentHistoryFormat: yearly
   incidentPostsPerPage: 10
-  logo: /logo.png
+  logo: /img/ffg.png
   notice: '#24478f'
   ok: '#008000'
   shortDateFormat: '15:04 — Jan 2'
@@ -41,7 +41,7 @@ params:
       name: Forums
     - category: Web Services
       name: Website
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
